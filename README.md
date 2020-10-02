@@ -50,3 +50,4 @@ _Not: Eğer bu butonu göremiyorsanız depo anasayfasından “Pull Requests” 
 7. Başardınız ! İlk pull requestinizi gönderdiniz. :smile:
 
 Markdown yazım kurallarını öğrenmek isterseniz [buraya](https://guides.github.com/features/mastering-markdown/).
+
